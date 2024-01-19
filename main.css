@@ -1,0 +1,19 @@
+time {
+    color: black;
+    padding: 1px;
+    margin-bottom: 9px;
+    display: block;
+}
+a, img {
+    margin-top: 9px;
+    
+}
+.rodapé {
+    text-align: center;
+}
+
+footer {
+    padding: 9px;
+    text-align: center;
+    
+}
